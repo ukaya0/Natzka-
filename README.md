@@ -1,6 +1,4 @@
-# Where in the world
-
-Natzka Assignment
+# Natzka Assignment
 
 ## How to run the project
 
